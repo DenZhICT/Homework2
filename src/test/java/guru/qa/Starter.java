@@ -17,7 +17,7 @@ public class Starter {
     @BeforeAll
     static void configure(){
         Configuration.baseUrl = "https://demoqa.com";
-        Configuration.browserSize = "1920x1800";
+        Configuration.browserSize = "400x1028";
         Configuration.browserPosition = "0x0";
 
     }
