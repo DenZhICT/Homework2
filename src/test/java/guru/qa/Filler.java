@@ -10,7 +10,6 @@ import java.io.File;
 import static com.codeborne.selenide.Selenide.$;
 
 
-
 public class Filler {
     public void fill(Inf data) {
         $("#firstName").setValue(data.fname);

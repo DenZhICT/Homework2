@@ -9,7 +9,7 @@ import java.io.IOException;
 import static com.codeborne.selenide.Selenide.*;
 
 
-public class Starter {
+public class ToolsQATest {
     Read r = new Read();
     Filler f = new Filler();
     Checker c = new Checker();
