@@ -1,7 +1,6 @@
 package guru.qa;
 
-import com.codeborne.selenide.Condition;
-import com.codeborne.selenide.Selenide;
+
 import com.codeborne.selenide.selector.ByText;
 import org.openqa.selenium.Keys;
 
@@ -9,7 +8,7 @@ import org.openqa.selenium.Keys;
 import java.io.File;
 
 import static com.codeborne.selenide.Selenide.$;
-import static com.codeborne.selenide.Selenide.executeJavaScript;
+
 
 
 public class Filler {
